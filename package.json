@@ -1,6 +1,6 @@
 {
   "name": "bird-protocols-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parser for protocols information of Bird internet routing dameon.",
   "main": "index.js",
   "scripts": {
