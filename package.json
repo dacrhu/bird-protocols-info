@@ -19,9 +19,10 @@
     "info"
   ],
   "author": {
-    "name": "David Horvath,
+    "name": "David Horvath",
     "email": "dacr@dacr.hu",
     "url": "https://dacr.hu"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dacrhu/bird-protocols-info/issues"
