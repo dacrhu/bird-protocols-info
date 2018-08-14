@@ -1,0 +1,30 @@
+{
+  "name": "bird-protocols-info",
+  "version": "1.0.0",
+  "description": "Parser for protocols information of Bird internet routing dameon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacrhu/bird-protocols-info.git"
+  },
+  "keywords": [
+    "bird",
+    "internet",
+    "daemon",
+    "routing",
+    "protocols",
+    "info"
+  ],
+  "author": {
+    "name": "David Horvath,
+    "email": "dacr@dacr.hu",
+    "url": "https://dacr.hu"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dacrhu/bird-protocols-info/issues"
+  },
+  "homepage": "https://github.com/dacrhu/bird-protocols-info#readme"
+}
